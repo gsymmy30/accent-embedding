@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+data_raw/
+data_processed/
+
+artifacts/
+tfjs_model/
+
+web/node_modules/
+web/.next/
+web/out/
+
+.DS_Store
